@@ -4,6 +4,11 @@
 
 🌱 I’m currently learning Azure Cloud and LLM.
 
+<h2> :coffee: Connect with me:</h2>
+<p align="center">
+<a href="linkedin.com/in/carlos-andrés-vélez-gonzález-072780115" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="melih-gulum" height="30" width="40" /></a>
+</p>
+
 📫 How to reach me:
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcavelezgweb-enhhhmhkd8e5a0au.mexicocentral-01.azurewebsites.net%2Fhome%2F&up_message=cavelezg)
