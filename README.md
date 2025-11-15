@@ -4,9 +4,8 @@
 
 🌱 I’m currently learning Azure Cloud and LLM.
 
-:coffee: Find all my Information and Projects on my Web Site:
-
-[Website](https://cavelezgweb-enhhhmhkd8e5a0au.mexicocentral-01.azurewebsites.net%2Fhome%2F&up_message=cavelezg)
+:coffee: Find all my Information and Projects on my
+[Website](https://cavelezgweb-enhhhmhkd8e5a0au.mexicocentral-01.azurewebsites.net/home/)
 
 📫 How to reach me:
 
