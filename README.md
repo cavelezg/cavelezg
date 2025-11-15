@@ -6,7 +6,7 @@
 
 :coffee: Find all my Information and Projects on my Web Site:
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fcavelezgweb-enhhhmhkd8e5a0au.mexicocentral-01.azurewebsites.net%2Fhome%2F&up_message=cavelezg)
+[Website](https://cavelezgweb-enhhhmhkd8e5a0au.mexicocentral-01.azurewebsites.net%2Fhome%2F&up_message=cavelezg)
 
 📫 How to reach me:
 
