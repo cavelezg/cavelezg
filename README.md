@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on Luma Energy as Outage Management System (OMS) Analyst.
+🔭 I’m currently working for Luma Energy as Outage Management System (OMS) Analyst.
 
 🌱 I’m currently learning Azure Cloud and LLM.
 
