@@ -9,6 +9,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcavelezgweb-enhhhmhkd8e5a0au.mexicocentral-01.azurewebsites.net%2Fhome%2F&up_message=cavelezg)
 
 📫 How to reach me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andrés-vélez-gonzález-072780115/)
 
 
